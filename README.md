@@ -315,7 +315,8 @@ npm run dev
 56 directories, 203 files
 ```
 # 项目布局
-
+```
+.
 ├── www                                         // 源码目录
 │   ├── bin                              		
 │   │   └── www                              	 // 启动配置，端口号等
@@ -330,6 +331,7 @@ npm run dev
 │   ├─ app.js                                   // 项目入口
 │	└──package.json                             // 启动配置 快捷指令 npm start
 └package-lock.json                              // 依赖包
+.
 
 # License
 
